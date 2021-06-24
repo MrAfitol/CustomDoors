@@ -1,5 +1,6 @@
 # CustomDoors
 This plugin added new doors, if you have any ideas where else you can add a door, then write to me in the discord **`MrAfitol#3333`**
+**And if you don't like some door, you can remove it through the configs.**
 
 ## Snapshot of added doors
 ### Door #1
