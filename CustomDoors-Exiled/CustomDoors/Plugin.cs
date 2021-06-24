@@ -10,7 +10,7 @@ namespace CustomDoors
         public override string Name { get; } = "CustomDoor";
         public override string Prefix { get; } = "customdoor";
         public override Version RequiredExiledVersion => new Version(2, 10, 0);
-        public override Version Version => new Version(1, 0, 0);
+        public override Version Version => new Version(1, 0, 1);
 
         public static Plugin Instance;
 

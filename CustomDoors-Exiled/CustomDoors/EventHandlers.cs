@@ -54,13 +54,13 @@ namespace CustomDoors
             if (Plugin.Instance.Config.IsEnabledDoor3)
             {
                 doorType = 2;
-                SpawnDoor(new Vector3(174.350174f, 983.373291f, 29.0178833f), new Vector3(0f, 90f, 0f), new Vector3(1f, 1f, 1f));
+                SpawnDoor(new Vector3(174.350174f, 983.28f, 29.0178833f), new Vector3(0f, 90f, 0f), new Vector3(1f, 1f, 1f));
             }
 
             if (Plugin.Instance.Config.IsEnabledDoor4)
             {
                 doorType = 2;
-                SpawnDoor(new Vector3(176.23f, 983.373291f, 35.1f), new Vector3(0f, 0f, 0f), new Vector3(1f, 1f, 1f));
+                SpawnDoor(new Vector3(176.23f, 983.28f, 35.1f), new Vector3(0f, 180f, 0f), new Vector3(1f, 1f, 1f));
             }
         }
     }
