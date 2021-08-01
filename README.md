@@ -1,5 +1,6 @@
 # CustomDoors
 This plugin added new doors, if you have any ideas where else you can add a door, then write to me in the discord **`MrAfitol#3333`**
+**So far, doors can only be spawned outside.**
 
 **And if you don't like some door, you can remove it through the configs.**
 
