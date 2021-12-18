@@ -45,6 +45,8 @@ namespace CustomDoors
                 SpawnDoor(new Vector3(14.4323368f, 995.299988f, -43.4600067f), new Vector3(0f, 0f, 0f), new Vector3(1f, 1f, 1.5f));
             }
 
+            
+
             if (Plugin.Instance.Config.IsEnabledDoor2)
             {
                 doorType = 2;

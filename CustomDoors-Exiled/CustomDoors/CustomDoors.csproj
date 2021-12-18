@@ -31,38 +31,43 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Assembly-CSharp">
-      <HintPath>..\..\..\References\Assembly-CSharp.dll</HintPath>
+    <Reference Include="Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Downloads\References (1)\Assembly-CSharp-firstpass.dll</HintPath>
     </Reference>
-    <Reference Include="Assembly-CSharp-firstpass">
-      <HintPath>..\..\..\..\OneDrive\Документы\AllExiledFile\References\Assembly-CSharp-firstpass.dll</HintPath>
+    <Reference Include="Assembly-CSharp-Publicized">
+      <HintPath>..\..\..\..\Downloads\References (1)\Assembly-CSharp-Publicized.dll</HintPath>
     </Reference>
-    <Reference Include="Exiled.API, Version=2.10.0.0, Culture=neutral, processorArchitecture=AMD64">
-      <HintPath>..\packages\EXILED.2.10.0-beta\lib\net472\Exiled.API.dll</HintPath>
+    <Reference Include="Exiled.API, Version=4.1.5.0, Culture=neutral, processorArchitecture=AMD64">
+      <HintPath>..\packages\EXILED.4.1.5\lib\net472\Exiled.API.dll</HintPath>
     </Reference>
-    <Reference Include="Exiled.Bootstrap, Version=2.10.0.0, Culture=neutral, processorArchitecture=AMD64">
-      <HintPath>..\packages\EXILED.2.10.0-beta\lib\net472\Exiled.Bootstrap.dll</HintPath>
+    <Reference Include="Exiled.Bootstrap, Version=4.1.5.0, Culture=neutral, processorArchitecture=AMD64">
+      <HintPath>..\packages\EXILED.4.1.5\lib\net472\Exiled.Bootstrap.dll</HintPath>
     </Reference>
-    <Reference Include="Exiled.CreditTags, Version=2.10.0.0, Culture=neutral, processorArchitecture=AMD64">
-      <HintPath>..\packages\EXILED.2.10.0-beta\lib\net472\Exiled.CreditTags.dll</HintPath>
+    <Reference Include="Exiled.CreditTags, Version=4.1.5.0, Culture=neutral, processorArchitecture=AMD64">
+      <HintPath>..\packages\EXILED.4.1.5\lib\net472\Exiled.CreditTags.dll</HintPath>
     </Reference>
-    <Reference Include="Exiled.CustomItems, Version=2.10.0.0, Culture=neutral, processorArchitecture=AMD64">
-      <HintPath>..\packages\EXILED.2.10.0-beta\lib\net472\Exiled.CustomItems.dll</HintPath>
+    <Reference Include="Exiled.CustomItems, Version=4.1.5.0, Culture=neutral, processorArchitecture=AMD64">
+      <HintPath>..\packages\EXILED.4.1.5\lib\net472\Exiled.CustomItems.dll</HintPath>
     </Reference>
-    <Reference Include="Exiled.Events, Version=2.10.0.0, Culture=neutral, processorArchitecture=AMD64">
-      <HintPath>..\packages\EXILED.2.10.0-beta\lib\net472\Exiled.Events.dll</HintPath>
+    <Reference Include="Exiled.CustomRoles, Version=4.1.5.0, Culture=neutral, processorArchitecture=AMD64">
+      <HintPath>..\packages\EXILED.4.1.5\lib\net472\Exiled.CustomRoles.dll</HintPath>
     </Reference>
-    <Reference Include="Exiled.Loader, Version=2.10.0.0, Culture=neutral, processorArchitecture=AMD64">
-      <HintPath>..\packages\EXILED.2.10.0-beta\lib\net472\Exiled.Loader.dll</HintPath>
+    <Reference Include="Exiled.Events, Version=4.1.5.0, Culture=neutral, processorArchitecture=AMD64">
+      <HintPath>..\packages\EXILED.4.1.5\lib\net472\Exiled.Events.dll</HintPath>
     </Reference>
-    <Reference Include="Exiled.Permissions, Version=2.10.0.0, Culture=neutral, processorArchitecture=AMD64">
-      <HintPath>..\packages\EXILED.2.10.0-beta\lib\net472\Exiled.Permissions.dll</HintPath>
+    <Reference Include="Exiled.Loader, Version=4.1.5.0, Culture=neutral, processorArchitecture=AMD64">
+      <HintPath>..\packages\EXILED.4.1.5\lib\net472\Exiled.Loader.dll</HintPath>
+    </Reference>
+    <Reference Include="Exiled.Permissions, Version=4.1.5.0, Culture=neutral, processorArchitecture=AMD64">
+      <HintPath>..\packages\EXILED.4.1.5\lib\net472\Exiled.Permissions.dll</HintPath>
     </Reference>
     <Reference Include="Exiled.Updater, Version=3.1.1.0, Culture=neutral, processorArchitecture=AMD64">
-      <HintPath>..\packages\EXILED.2.10.0-beta\lib\net472\Exiled.Updater.dll</HintPath>
+      <HintPath>..\packages\EXILED.4.1.5\lib\net472\Exiled.Updater.dll</HintPath>
     </Reference>
-    <Reference Include="Mirror">
-      <HintPath>..\..\..\..\OneDrive\Документы\AllExiledFile\References\Mirror.dll</HintPath>
+    <Reference Include="Mirror, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Downloads\References (1)\Mirror.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -259,7 +264,7 @@
       <HintPath>..\..\..\..\OneDrive\Документы\AllExiledFile\References\UnityEngine.XRModule.dll</HintPath>
     </Reference>
     <Reference Include="YamlDotNet, Version=11.0.0.0, Culture=neutral, PublicKeyToken=ec19458f3c15af5e, processorArchitecture=MSIL">
-      <HintPath>..\packages\YamlDotNet.11.2.0\lib\net45\YamlDotNet.dll</HintPath>
+      <HintPath>..\packages\YamlDotNet.11.2.1\lib\net45\YamlDotNet.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

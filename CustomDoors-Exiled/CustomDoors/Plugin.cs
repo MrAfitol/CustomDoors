@@ -9,8 +9,8 @@ namespace CustomDoors
         public override string Author { get; } = "MrAfitol";
         public override string Name { get; } = "CustomDoor";
         public override string Prefix { get; } = "customdoor";
-        public override Version RequiredExiledVersion => new Version(2, 10, 0);
-        public override Version Version => new Version(1, 0, 1);
+        public override Version RequiredExiledVersion => new Version(4, 1, 5);
+        public override Version Version => new Version(1, 1, 0);
 
         public static Plugin Instance;
 
@@ -21,16 +21,12 @@ namespace CustomDoors
             handler = new EventHandlers();
             Instance = this;
             Server.RoundStarted += handler.OnRoundStarted;
-
-            base.OnEnabled();
         }
 
         public override void OnDisabled()
         {
             Server.RoundStarted -= handler.OnRoundStarted;
             handler = null;
-
-            base.OnDisabled();
         }
     }
 }
