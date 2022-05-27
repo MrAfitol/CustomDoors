@@ -8,9 +8,9 @@ namespace CustomDoors
     {
         public override string Author { get; } = "MrAfitol";
         public override string Name { get; } = "CustomDoor";
-        public override string Prefix { get; } = "customdoor";
-        public override Version RequiredExiledVersion => new Version(4, 1, 5);
-        public override Version Version => new Version(1, 1, 0);
+        public override string Prefix { get; } = "custom_door";
+        public override Version RequiredExiledVersion => new Version(5, 2, 1);
+        public override Version Version => new Version(1, 2, 0);
 
         public static Plugin Instance;
 
