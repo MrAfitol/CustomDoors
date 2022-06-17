@@ -5,7 +5,7 @@ This plugin added new doors, if you have any ideas where else you can add a door
 
 **And if you don't like some door, you can remove it through the configs.**
 
-## Snapshot of added doors
+## Screenshot of added doors
 ### Door #1
 ![Header](https://github.com/MrAfitol/CustomDoors/blob/main/Snapshots/Door1.png)
 ### Door #2
