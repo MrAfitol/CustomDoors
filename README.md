@@ -1,4 +1,6 @@
 # CustomDoors
+![img](https://img.shields.io/github/downloads/MrAfitol/CustomDoors/total.svg)
+
 This plugin added new doors, if you have any ideas where else you can add a door, then write to me in the discord **`MrAfitol#1760`**
 
 **So far, doors can only be spawned outside.**
